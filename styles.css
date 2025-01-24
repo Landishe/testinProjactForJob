@@ -191,7 +191,7 @@
 .header__button-number {
   display: block;
   position: relative;
-  bottom: 175%;
+  bottom: 115%;
   right: -12%;
   width: 18px;
   height: 18px;
@@ -199,10 +199,21 @@
   background-color: white;
   color: black;
 }
+
+.header__button-text{
+  display: block;
+  position: relative;
+  bottom: 160%;
+  right: -35%;
+  width: 18px;
+  height: 18px;
+  color: white;
+}
+
 .header__button-icon {
   display: block;
   position: relative;
-  bottom: 70%;
+  bottom: 10%;
 }
 /* Блок main */
 .main {
