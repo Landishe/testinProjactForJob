@@ -1,0 +1,17 @@
+{
+  "name": "testingprojact",
+  "version": "1.0.0",
+  "description": "В данном проекте была использование vanila JS а также верстка проекта В верстке использовались такие элементы как:",
+  "main": "script.js",
+  "homepage": "https://Landishe.github.io/testinProjactForJob/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -D"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
